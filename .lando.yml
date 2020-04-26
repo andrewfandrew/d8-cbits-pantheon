@@ -1,0 +1,6 @@
+name: d8-cbits-pantheon
+recipe: pantheon
+config:
+  framework: drupal8
+  site: d8-cbits-pantheon
+  id: bff32ede-4b59-4b56-bdfc-e8c689ee84a8
